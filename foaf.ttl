@@ -1,6 +1,6 @@
-@base <http://raw.githubusercontent.com/hsarmiento/linked_data/master/foaf.ttl> .
+@base <http://github.com/hsarmiento/linked_data/blob/master/foaf.ttl> .
 
-@prefix hs: <http://raw.githubusercontent.com/hsarmiento/linked_data/master/foaf.ttl#> .
+@prefix hs: <http://github.com/hsarmiento/linked_data/blob/master/foaf.ttl#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
