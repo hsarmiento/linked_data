@@ -23,7 +23,7 @@
    foaf:givenName "Hernan" ;
    foaf:familyName "Sarmiento" ;
    foaf:age 36¿3 ; 
-   #foaf:img <http://aidanhogan.com/img/me-sp.png> ;
+   foaf:img <http://aidanhogan.com/img/me-sp.png> ;
    foaf:knows <https://users.dcc.uchile.cl/~dhernand/foaf.ttl#dh> , <http://anakena.dcc.uchile.cl/~jasalas/web/foaf.ttl#me> ;
    foaf:interest dbr:Semantic_Web , dbr:Big_data , dbr:Hurling ; 
    social:hasEnemy <http://users.dcc.uchile.cl/~ahogan/abot.ttl#ab> ;
