@@ -1,11 +1,11 @@
-@base <http://github.com/hsarmiento/linked_data/blob/master/foaf.ttl> .
+@base <http://raw.githubusercontent.com/hsarmiento/linked_data/master/foaf.ttl> .
 
-@prefix hs: <http://github.com/hsarmiento/linked_data/blob/master/foaf.ttl#> .
+@prefix hs: <http://raw.githubusercontent.com/hsarmiento/linked_data/master/foaf.ttl#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
 @prefix dc: <http://purl.org/dc/terms/> .
-@prefix social: <http://github.com/hsarmiento/linked_data/blob/master/social.ttl#>.
+@prefix social: <http://users.dcc.uchile.cl/~ahogan/social.ttl#>.
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
 @prefix wd: <http://www.wikidata.org/entity/>.
 @prefix dbr: <http://dbpedia.org/resource/>.
